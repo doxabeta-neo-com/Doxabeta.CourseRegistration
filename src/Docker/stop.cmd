@@ -1,0 +1,1 @@
+docker-compose -p course_registration down

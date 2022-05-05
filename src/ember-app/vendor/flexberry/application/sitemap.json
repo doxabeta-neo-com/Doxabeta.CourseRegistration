@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Course_ registration",
+  "applicationTitle": "Course_ registration",
+  "items": [
+    {
+      "link": null,
+      "menuName": "course-registration",
+      "caption": "Course Registration",
+      "title": "Course Registration",
+      "children": [
+        {
+          "link": "i-i-s-course-registration-course-l",
+          "menuName": null,
+          "caption": "Course",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-course-registration-student-l",
+          "menuName": null,
+          "caption": "Student",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
